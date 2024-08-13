@@ -1,6 +1,6 @@
-### La Pâtisserie Enchantée
+### Le Palais des Pâtisseries
 
-## À propos de La Pâtisserie Enchantée
+## À propos 
 
 Nous sommes une référence incontournable dans l'univers de la pâtisserie artisanale, alliant tradition et innovation pour créer des desserts qui enchantent vos papilles. Notre mission est de vous offrir une expérience gustative exceptionnelle, tout en respectant les valeurs de l'artisanat et de la qualité.
 
@@ -12,13 +12,13 @@ Couleur de la marque principale : #8b4513 (marron chocolat)
 
 Couleur secondaire : #f5f5dc (crème / beige)
 
-## Contenu du site web La Pâtisserie Enchantée
+## Contenu du site web Le Palais des Pâtisseries
 
 ### Résumé
 
 Découvrez nos créations pâtissières uniques, préparées avec passion et dévotion. Plongez dans un univers où chaque bouchée vous transporte dans un monde de saveurs et de textures exquises.
 
-### Caractéristiques de La Pâtisserie Enchantée
+### Caractéristiques 
 
 Artisanat authentique : Nos chefs pâtissiers utilisent uniquement des ingrédients de première qualité pour créer des desserts qui émerveillent.
 
@@ -26,7 +26,7 @@ Innovation culinaire : Nous repoussons les limites de la pâtisserie traditionne
 
 Service clientèle exceptionnel : Votre satisfaction est notre priorité absolue. Nous nous engageons à vous offrir une expérience client unique à chaque visite.
 
-### Comment fonctionne La Pâtisserie Enchantée
+### Comment fonctionne Le Palais des Pâtisseries
 
 [Inclure des images inspirantes de nos créations]
 
@@ -38,7 +38,7 @@ Personnalisation : Ajoutez une touche personnelle à votre commande en choisissa
 
 Livraison rapide et sûre : Nous livrons vos pâtisseries fraîchement préparées à l'heure qui vous convient, directement à votre porte.
 
-### La Pâtisserie Enchantée accueille tous les amateurs de pâtisserie
+### Le Palais des Pâtisseries accueille tous les amateurs de pâtisserie
 
 - Classique
 - Moderne
